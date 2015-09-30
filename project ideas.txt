@@ -1,2 +1,4 @@
 1. Company web site
-2. employee management
+2. employee management - org structure, HR etc...
+3. application similar to whatsapp - with feature of collapsing related messages in a conversation -- add start to a message..etc..
+4. public feedback / post anonymously
